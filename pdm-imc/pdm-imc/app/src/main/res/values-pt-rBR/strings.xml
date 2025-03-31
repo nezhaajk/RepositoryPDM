@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Conta Clicks</string>
+    <string name="ola">"Olá "</string>
+    <string name="click">Clique Aqui</string>
+</resources>
