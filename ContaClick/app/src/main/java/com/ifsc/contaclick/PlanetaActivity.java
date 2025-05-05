@@ -1,6 +1,7 @@
 package com.ifsc.contaclick;
 
 import android.os.Bundle;
+import android.widget.TextView;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -20,5 +21,10 @@ public class PlanetaActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+
+        Bundle b=getIntent().getExtras();
+        b.get("nome");
+        TextView tv=findViewById(R.id.tvNomePlaneta);
+        tv.setText(b.get("nome").toString());
     }
 }
