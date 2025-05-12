@@ -28,6 +28,9 @@
         android:testOnly="true"
         android:theme="@style/Theme.ContaClick" >
         <activity
+            android:name="com.ifsc.contaclick.PlanetaActivity"
+            android:exported="false" />
+        <activity
             android:name="com.ifsc.contaclick.MainActivity"
             android:exported="true" >
             <intent-filter>

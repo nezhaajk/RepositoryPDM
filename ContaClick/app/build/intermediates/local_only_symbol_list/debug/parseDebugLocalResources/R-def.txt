@@ -2,12 +2,23 @@ R_DEF: Internal format may change without notice
 local
 color black
 color white
+drawable earth
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable jupter
+drawable mars
+drawable mercury
+drawable neptune
+drawable saturn
+drawable sun
+drawable uranus
+drawable venus
 id listview
 id main
 id textView
+id tvNomePlaneta
 layout activity_main
+layout activity_main_b
 layout item_lista
 mipmap ic_launcher
 mipmap ic_launcher_round
