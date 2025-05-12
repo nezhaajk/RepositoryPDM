@@ -13,6 +13,7 @@ drawable saturn
 drawable sun
 drawable uranus
 drawable venus
+id imageView
 id listview
 id main
 id textView

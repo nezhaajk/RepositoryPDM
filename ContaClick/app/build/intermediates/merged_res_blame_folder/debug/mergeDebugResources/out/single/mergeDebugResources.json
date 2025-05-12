@@ -1,114 +1,118 @@
 [
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-hdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_mercury.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/mercury.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-xxxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-xhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-xxhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\layout_item_lista.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\layout\\item_lista.xml"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_ic_launcher_foreground.xml.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-mdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_saturn.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\saturn.png"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_sun.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\sun.png"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_jupter.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/jupter.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_mars.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\mars.png"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-xhdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_venus.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\venus.png"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/layout_activity_main_b.xml.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/layout/activity_main_b.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/ic_launcher_background.xml"
-    },
-    {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-mdpi/ic_launcher.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_neptune.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\neptune.png"
     },
     {
         "merged": "com.ifsc.contaclick.app-debug-31:/layout_item_lista.xml.flat",
         "source": "com.ifsc.contaclick.app-main-33:/layout/item_lista.xml"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-anydpi\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_jupter.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\jupter.png"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_saturn.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/saturn.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-hdpi/ic_launcher_round.webp"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_earth.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\earth.png"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_venus.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/venus.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-xhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_mars.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/mars.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-anydpi\\ic_launcher.xml"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/layout_activity_main.xml.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/layout/activity_main.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_sun.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/sun.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_uranus.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/uranus.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_mercury.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\mercury.png"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_neptune.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/neptune.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/xml_backup_rules.xml.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_uranus.png.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\uranus.png"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/drawable_earth.png.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/drawable/earth.png"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/xml_data_extraction_rules.xml.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-anydpi_ic_launcher_round.xml.flat",
-        "source": "com.ifsc.contaclick.app-main-33:/mipmap-anydpi/ic_launcher_round.xml"
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-debug-31:\\layout_activity_main_b.xml.flat",
+        "source": "C:\\Users\\Aluno\\.gradle\\daemon\\8.4\\com.ifsc.contaclick.app-main-33:\\layout\\activity_main_b.xml"
     }
 ]

@@ -26,12 +26,14 @@ MainActivity extends AppCompatActivity {
 
 
         //adaptador
-        ArrayAdapter<String> a=new ArrayAdapter(
-                this,R.layout.item_lista,
-                R.id.textView,
-                nomes);
+//        ArrayAdapter<String> a=new ArrayAdapter(
+//                this,R.layout.item_lista,
+//                R.id.textView,
+//                nomes);
+        PlanetaDao planetaDao=new PlanetaDao();
+        AdapterPlaneta ap=new AdapterPlaneta(this,R.layout.item_lista,planetaDao.getPlanetas());
+        lv.setAdapter(ap);
 
-        lv.setAdapter(a);
 
         lv.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
