@@ -4,7 +4,7 @@ import android.graphics.Bitmap;
 
 public class Planeta {
     String nome;
-    Bitmap imagem;
+    int imagem;
 
     public Planeta(String nome, Integer imagem){
         this.nome = nome;

@@ -1,8 +1,10 @@
 package com.ifsc.contaclick;
 
+import java.io.Serializable;
 import java.util.ArrayList;
 
-public class PlanetaDao {
+public class PlanetaDao implements Serializable {
+    ArrayList<Planeta> planetas;
     public PlanetaDao() {
         this.planetas=new ArrayList<>();
         String [] nomes= new String[]{"Mercurio", "Venus", "Terra", "Marte", "Jupter", "Saturno", "Urano", "Netuno"};
@@ -11,11 +13,11 @@ public class PlanetaDao {
                                         R.drawable.jupter,R.drawable.saturn,
                                         R.drawable.uranus,R.drawable.neptune,}    ;
         for (int i=0; i< nomes.length; i++){
-            plametas.add(new Planeta(nomes[1],imagens[1]));
+            planetas.add(new Planeta(nomes[i],imagens[i]));
         }
     }
 
     public ArrayList<Planeta> getPlanetas(){
-        return new ArrayList<>();
+        return this.planetas;
     }
 }

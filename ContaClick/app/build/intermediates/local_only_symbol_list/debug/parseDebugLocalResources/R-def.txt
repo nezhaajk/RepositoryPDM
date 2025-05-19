@@ -13,6 +13,7 @@ drawable saturn
 drawable sun
 drawable uranus
 drawable venus
+id imagePlaneta2
 id imageView
 id listview
 id main
