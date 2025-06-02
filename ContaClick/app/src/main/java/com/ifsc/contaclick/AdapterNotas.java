@@ -7,9 +7,12 @@ import androidx.annotation.NonNull;
 
 import java.util.List;
 
+
 public class AdapterNotas extends ArrayAdapter<Nota> {
 
+    Context mcontext;
+
     public AdapterNotas(@NonNull Context context, int resource, @NonNull List<Nota> objects){
-        super(context, resource, )
+        super(context, resource, objects);
     }
 }

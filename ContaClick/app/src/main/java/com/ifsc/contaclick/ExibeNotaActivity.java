@@ -2,6 +2,8 @@ package com.ifsc.contaclick;
 
 import android.os.Bundle;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
@@ -10,6 +12,9 @@ import androidx.appcompat.app.AppCompatActivity;
 
 
 Button buttonCancelar, buttonSalvar, buttonDeletar;
+TextView tvid;
+
+EditText editText;
 
 public class ExibeNotaActivity extends AppCompatActivity {
 

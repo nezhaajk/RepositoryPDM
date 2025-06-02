@@ -54,10 +54,7 @@ MainActivity extends AppCompatActivity {
         ArrayAdapter<String> adapter=new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,
         android.R.id.text1,listaNotas);
         listView.setAdapter(adapter);
-
-
     }
-
 
     public void insertNota(String txt){
         ContentValues cv=new ContentValues();
