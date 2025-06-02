@@ -35,24 +35,24 @@ MainActivity extends AppCompatActivity {
         listView=findViewById(R.id.listView);
         buttonInsere.setOnClickListener(v->{
             String msg =editText.getText().toString();
-            insertNota(msg);
+            if(!msg.isEmpty()) {
+                insertNota(msg);
+            }
         });
 
     }
 
     public void listagemNotas(){
+        ArrayList<String> lista = new ArrayList<>();
         Cursor cursor= db.rawQuery("SELECT * FROM notas",null);
-        cursor.moveToFirst();
-        ArrayList<String> listaNotas=new ArrayList<String>();
-        while (!cursor.isAfterLast()){
-            int coluna=cursor.getColumnIndex("txt");
-            listaNotas.add(cursor.getString(coluna));
-            cursor.moveToNext();
+        if (cursor.moveToFirst()){
+            do{
+                Nota n = new Nota(cursor.getInt(0),cursor.getInt(1));
+            }
 
         }
-        ArrayAdapter<String> adapter=new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1
-        android.R.id.text1,
-                listaNotas);
+        ArrayAdapter<String> adapter=new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1,
+        android.R.id.text1,listaNotas);
         listView.setAdapter(adapter);
 
 
@@ -60,7 +60,6 @@ MainActivity extends AppCompatActivity {
 
 
     public void insertNota(String txt){
-        //db.execSQL("INSERT INTO notas(txt) VALUES(" + " );");
         ContentValues cv=new ContentValues();
         cv.put("txt",txt);
         db.insert("notas",null,cv);
