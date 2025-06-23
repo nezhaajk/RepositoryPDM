@@ -3306,6 +3306,7 @@ id legacy
 id line1
 id line3
 id linear
+id linearlayout
 id listMode
 id listView
 id list_item

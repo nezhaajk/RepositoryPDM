@@ -5,6 +5,7 @@ color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 id imageView
+id linearlayout
 id listView
 id main
 id textView
