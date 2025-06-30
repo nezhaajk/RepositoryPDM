@@ -2887,6 +2887,7 @@ dimen tooltip_precise_anchor_threshold
 dimen tooltip_vertical_padding
 dimen tooltip_y_offset_non_touch
 dimen tooltip_y_offset_touch
+drawable abaixopeso
 drawable abc_ab_share_pack_mtrl_alpha
 drawable abc_action_bar_item_background_material
 drawable abc_btn_borderless_material
@@ -3054,6 +3055,7 @@ drawable mtrl_switch_track
 drawable mtrl_switch_track_decoration
 drawable mtrl_tabs_default_indicator
 drawable navigation_empty_icon
+drawable normal
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -3066,6 +3068,11 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable obesidade1
+drawable obesidade2
+drawable obesidade3
+drawable perfil
+drawable sobrepeso
 drawable test_level_drawable
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -3240,8 +3247,10 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id edaltura
 id edge
 id edit_query
+id edpeso
 id elastic
 id embed
 id end
@@ -3288,6 +3297,8 @@ id ifRoom
 id ignore
 id ignoreRequest
 id image
+id imageView2
+id imageViewPerfil
 id immediateStop
 id included
 id indeterminate
@@ -3517,7 +3528,12 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
-id textView
+id textView2
+id textView4
+id textView5
+id textView6
+id textViewDescricaoIMC
+id textViewIMC
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3543,6 +3559,9 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvAlturaResult
+id tvpeso
+id tvpesoResult
 id unchecked
 id uniform
 id unlabeled
@@ -3681,6 +3700,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_main_b
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
