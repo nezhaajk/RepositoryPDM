@@ -3167,7 +3167,6 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id buttonInsere
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3241,7 +3240,6 @@ id easeInOut
 id easeOut
 id east
 id edge
-id editText
 id edit_query
 id elastic
 id embed
@@ -3308,7 +3306,6 @@ id line1
 id line3
 id linear
 id listMode
-id listView
 id list_item
 id m3_side_sheet
 id main
@@ -3519,6 +3516,9 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textViewX
+id textViewY
+id textViewZ
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
