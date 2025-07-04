@@ -2,12 +2,18 @@ R_DEF: Internal format may change without notice
 local
 color black
 color white
+drawable cachorro
+drawable gardem
+drawable happy
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable patinho
+drawable porquinho
 id button
 id main
 id textView
 layout activity_main
+layout activity_main_b
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
