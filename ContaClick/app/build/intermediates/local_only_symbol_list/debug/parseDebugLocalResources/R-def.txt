@@ -4,10 +4,11 @@ color black
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-id button
+id listview
 id main
 id textView
 layout activity_main
+layout item_lista
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
