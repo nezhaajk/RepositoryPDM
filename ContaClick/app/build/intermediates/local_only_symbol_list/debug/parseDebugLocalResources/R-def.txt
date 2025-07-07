@@ -6,7 +6,9 @@ drawable ic_launcher_background
 drawable ic_launcher_foreground
 id button
 id main
-id textView
+id tvLatitude
+id tvLongitude
+id tvStatus
 layout activity_main
 mipmap ic_launcher
 mipmap ic_launcher_round
