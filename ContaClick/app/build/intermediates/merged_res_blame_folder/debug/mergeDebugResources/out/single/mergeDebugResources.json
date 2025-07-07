@@ -4,6 +4,10 @@
         "source": "com.ifsc.contaclick.app-main-33:/mipmap-hdpi/ic_launcher.webp"
     },
     {
+        "merged": "com.ifsc.contaclick.app-debug-31:/layout_activity_exibe_nota.xml.flat",
+        "source": "com.ifsc.contaclick.app-main-33:/layout/activity_exibe_nota.xml"
+    },
+    {
         "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
         "source": "com.ifsc.contaclick.app-main-33:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
@@ -38,6 +42,10 @@
     {
         "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-anydpi_ic_launcher.xml.flat",
         "source": "com.ifsc.contaclick.app-main-33:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.ifsc.contaclick.app-debug-31:/layout_item_nota.xml.flat",
+        "source": "com.ifsc.contaclick.app-main-33:/layout/item_nota.xml"
     },
     {
         "merged": "com.ifsc.contaclick.app-debug-31:/mipmap-xhdpi_ic_launcher.webp.flat",

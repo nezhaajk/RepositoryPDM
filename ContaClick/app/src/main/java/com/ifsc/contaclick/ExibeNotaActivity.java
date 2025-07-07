@@ -1,4 +1,4 @@
-package com.ifsc.contaclicks;
+package com.ifsc.contaclick;
 
 import android.content.ContentValues;
 import android.database.sqlite.SQLiteDatabase;
@@ -13,6 +13,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+
+import com.ifsc.contaclick.Nota;
+import com.ifsc.contaclick.R;
 
 public class ExibeNotaActivity extends AppCompatActivity {
     SQLiteDatabase bancoDados;
@@ -35,13 +38,13 @@ public class ExibeNotaActivity extends AppCompatActivity {
             finish();
         }
         //associando os componentes com váriaveis locais
-         tvid= findViewById(R.id.textViewId);
-         editText= findViewById(R.id.edNota);
+        tvid= findViewById(R.id.textViewId);
+        editText= findViewById(R.id.edNota);
         buttonCancelar = findViewById(R.id.buttonCancelar);
         buttonDelete= findViewById(R.id.buttonDeletar);
         buttonUpdate= findViewById(R.id.buttonSalvar);
 
-         //Configura o banco de dados
+        //Configura o banco de dados
         bancoDados = openOrCreateDatabase("banco", MODE_PRIVATE, null);
         //Handler de eventos
         buttonCancelar.setOnClickListener(view -> {

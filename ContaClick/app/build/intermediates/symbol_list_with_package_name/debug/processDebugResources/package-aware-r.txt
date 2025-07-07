@@ -3167,8 +3167,11 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
-id buttonInsere
+id buttonCancelar
+id buttonDeletar
+id buttonInserir
 id buttonPanel
+id buttonSalvar
 id cache_measures
 id callMeasure
 id cancel_button
@@ -3240,6 +3243,7 @@ id easeIn
 id easeInOut
 id easeOut
 id east
+id edNota
 id edge
 id editText
 id edit_query
@@ -3519,6 +3523,7 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textViewId
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
@@ -3544,6 +3549,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvid
+id tvtxt
 id unchecked
 id uniform
 id unlabeled
@@ -3681,6 +3688,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_exibe_nota
 layout activity_main
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -3698,6 +3706,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout item_nota
 layout m3_alert_dialog
 layout m3_alert_dialog_actions
 layout m3_alert_dialog_title
